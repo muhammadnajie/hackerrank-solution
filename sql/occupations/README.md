@@ -1,5 +1,5 @@
 ### Occupations
-[Jump to the problem in the platform](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true)
+[Jump to the problem in the platform](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true)
 
 #### Description
 ![Problem Description](problem_description.png)
